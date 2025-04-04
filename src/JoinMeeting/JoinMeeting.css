@@ -1,0 +1,34 @@
+main #join-flow button {
+  margin-top: 20px;
+  background-color: #2d8cff;
+  color: #ffffff;
+  text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: inline-block;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+main #join-flow button:hover {
+  background-color: #2681f2;
+}
+
+.videokit[_ngcontent-ng-c3099019308] {
+  padding-top: 0px;
+}
+@media only screen and (min-width: 1024px) and (max-width: 1440px) {
+  .user-view[_ngcontent-ng-c3099019308] {
+    height: 320px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .user-view[_ngcontent-ng-c3099019308] {
+    height: 232px;
+  }
+}
